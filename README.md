@@ -18,7 +18,7 @@
 |  ---  |        ---        |   ---   |   ---   |        ---         |          ---           |
 | [NEO - NASA](https://neo.sci.gsfc.nasa.gov/) | Vapor d'água, radiação solar, albedo, TSM, precipitação | Depende da variável | JPEG, PNG, GeoTIFF, csv | Diária, mensal | Dados de satélite |
 | [USGS](https://earthexplorer.usgs.gov/) | - | - | Shapefile, kmz | - | Dados de satélite |
-| [ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5) | | Período | NetCDF | Horária, diária, mensal | Dados de satélite |
+| [ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5) | [Documentação](https://confluence.ecmwf.int/display/CKB/ERA5%3A+data+documentation) | 1979-2020 | NetCDF | Horária, diária, mensal | Dados de satélite |
 | [Índices climáticos NOAA](https://www.ncdc.noaa.gov/cdo-web/datasets) | Índices meteorológicos, Normais climatológicas |  |  |  |  |  |
 
 ## Dados fisiográficos - Brasil
