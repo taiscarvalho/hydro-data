@@ -14,6 +14,7 @@ A lista está em construção, caso você queira contribuir/adicionar alguma inf
 | [Funceme - Plataforma de coleta de dados](http://funceme.br/pcd) | Dados de estações agrometeorológicas, hidrológicas, meteorológicas e pluviométricas | csv | Variável | Tem API. Reune dados de diversas instituições |
 | [Funceme - Monitoramento dos reservatórios do CE](http://funceme.br/pcd) | Cota, volume, CAV | csv | Diária, mensal | [Acesse a versão original do portal](http://www.hidro.ce.gov.br/) | 
 | [SNIRH - Rede hidrometeorológica nacional](http://portal1.snirh.gov.br/ana/apps/webappviewer/index.html?id=e1abba60063d4c13a5594c5c8b4cba51) | Estações hidrometeorológicas, hidrografia | Shapefile | - | - |
+| [Artigo - Int. Journal of Climatology](Daily gridded meteorological variables in Brazil (1980–2013)) | precipitação, temperatura máxima diária, temperatura mínima diária, radiação solar, velocidade do vento a 2 m e umidade relativa | NetCDF | Diária | Base de dados disponível [aqui](https://utexas.app.box.com/v/Xavier-etal-IJOC-DATA).
 | [DAEE - SP](http://www.hidrologia.daee.sp.gov.br/) | Dados fluviométricos e pluviométricos do estado de SP | csv | Diária, mensal | - |
  
 ## Dados hidrometeorológicos - Global 
