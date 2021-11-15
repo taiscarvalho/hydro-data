@@ -1,6 +1,6 @@
 # Bases de dados hidrológicos
 
-Essa lista reune algumas bases de dados abertos que são úteis para estudos hidrológicos e climáticos.
+Essa lista reúne algumas bases de dados abertos que podem ser úteis para estudos hidrológicos e climáticos.
 A lista está em construção, caso você queira contribuir/adicionar alguma informação, é só entrar em contato ou enviar uma pull request.
 
 ## Dados hidrometeorológicos - Brasil
